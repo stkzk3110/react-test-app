@@ -20,12 +20,17 @@
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
+    "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.5",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.4.2",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
+    "@types/react": "^16.8.12",
+    "@types/react-dom": "^16.8.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
